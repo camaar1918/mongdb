@@ -1,5 +1,3 @@
-"# mongdb" 
-"# mongdb" 
 
 db.use.abdisamad
 
